@@ -3,6 +3,7 @@ int main()
 {
 	try
 	{
+		int asdas;
 		htable<string> table(10);
 		pair<string, string> test1;
 		pair<string, string> test2;
